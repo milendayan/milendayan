@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/2pTk6Rx.png" alt="Banner" height="500" />
+  <img src="https://i.imgur.com/2pTk6Rx.png" alt="Banner" height="300" />
 </div>
 
 [![GitHub](https://img.shields.io/badge/GitHub-milendayan-black?style=social&logo=github)](https://github.com/milendayan)
