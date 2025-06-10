@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Hi, I'm <a>Milen Dayana Herrera</a> 👋</h1>
+  <h1 align="center">Hi, I'm <a>Milen Dayana Herrera</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 </div>
 
 <div align="center">
@@ -10,13 +10,26 @@
 
 ---
 
-[![GitHub](https://img.shields.io/badge/GitHub-milendayan-black?style=social&logo=github)](https://github.com/milendayan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-MilenDayanaHerrera-red?logo=linkedin&style=social)](https://www.linkedin.com/in/milen-dayana-herrera-delgado-057905274)
-[![Email](https://img.shields.io/badge/Email-milendayana@gmail.com-red?style=social&logo=gmail)](mailto:milendayana@gmail.com)
+## 🔗 Contact Information
+
+  <!-- Íconos de contacto -->
+  <div>
+    <a href="https://www.linkedin.com/in/milen-dayana-herrera-delgado-057905274" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%2300acee.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <br><br>
+    <a href="https://github.com/milendayan" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <br><br>
+    <a href="mailto:milendayana@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </div>
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
 🎓 Systems Engineering student  
 💻 Passionate about backend development, databases, and more  
