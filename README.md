@@ -52,7 +52,7 @@
   - Building AI Chatbots Without Programming
 ---
 
-## Certifications
+## 📜 Certifications
 <div>
   <a href="https://github.com/milendayan/Certificaciones" target="_blank">
     <img src="https://img.shields.io/badge/Certifications%20Repository-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Certifications" />
