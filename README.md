@@ -32,10 +32,10 @@
 ## 👩‍💻 About Me
 
 🎓 Systems Engineering student  
-💻 Passionate about backend development, databases, data analysis and more
-🗃️ Skilled in Java, JavaScript, PHP, MySQL, Oracle, MongoDB, Angular, and Power BI
-📊 Entry-level experience in data analysis and visualization using Power BI
-📈 Highly motivated to keep learning and grow professionally in the IT field
+💻 Passionate about backend development, databases, data analysis and more  
+🗃️ Skilled in Java, JavaScript, PHP, MySQL, Oracle, MongoDB, Angular, and Power BI  
+📊 Entry-level experience in data analysis and visualization using Power BI       
+📈 Highly motivated to keep learning and grow professionally in the IT field     
 
 ---
 
