@@ -43,8 +43,10 @@
 
 - **Languages:** Java, JavaScript, PHP, HTML, Angular, among others  
 - **Databases:** MySQL, MongoDB, Oracle  
-- **Productivity & Management:** Microsoft Office, Google Workspace  
-- **Networking:**
+- **Productivity & Management:** Microsoft Office, Google Workspace
+- **Data Analysis & BI:** Power BI (data cleaning, modeling, DAX basics, interactive dashboards)
+Basic data analysis and visualization
+- **Certifications & Courses:**
   - Fundamentals and simulations with Cisco Packet Tracer
   - Introduction to HTML, CSS and JavaScript
   - Using Python to Interact with the Operating System 
